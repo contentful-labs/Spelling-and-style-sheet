@@ -52,7 +52,6 @@ Ooyala
 OAuth
 dredd
 submodule
-github
 GitHub
 CloudFront
 Heroku
@@ -61,3 +60,9 @@ Postgres
 postgres
 CircleCI
 Laravel
+.img
+.img-caption
+Unarchive
+Unpublish
+pre-configured
+displayField
